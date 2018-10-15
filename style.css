@@ -1,4 +1,7 @@
 /* CSS Class */
+body{
+    background: #67E6DC;
+}
 * {
     box-sizing: border-box;
 }
